@@ -1,5 +1,3 @@
-Produce a feed-forward neural network with an Artificial Axon.
-
 Produce a Feedforward neural network with an Artificial Axon.
 
 # Background
